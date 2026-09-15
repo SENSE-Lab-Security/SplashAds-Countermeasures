@@ -1,0 +1,25 @@
+name: 条目纠错
+description: 提交新来源、失效链接或事实更正；目录数据仍由维护团队更新。
+title: "[纠错] "
+labels:
+  - correction
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: 工具名称或 ID
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 需要更正的内容
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 可核验来源
+      description: 请优先提供官网、官方商店或源码仓库链接。
+    validations:
+      required: true
