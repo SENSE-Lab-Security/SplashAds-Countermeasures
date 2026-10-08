@@ -13,6 +13,21 @@ Think of it as a **guide to mobile advertising defenses**: start with the proble
 >
 > Last major verification pass: **2026-09-13**
 
+## 📄 Original paper
+
+Read the original paper: **[Can We Stop The Ads? Taxonomy and Characterization of Smartphone Splash Ads and Existing Countermeasures (PDF)](https://arxiv.org/pdf/2609.17316)**.
+
+If you use this work in your research, please cite:
+
+```bibtex
+@article{zhang2026can,
+  title={Can We Stop The Ads? Taxonomy and Characterization of Smartphone Splash Ads and Existing Countermeasures},
+  author={Zhang, Shuhao and Liu, Xinyu and Shao, Ziyu and Yang, Yuqing and Long, Yan},
+  journal={arXiv preprint arXiv:2609.17316},
+  year={2026}
+}
+```
+
 ## 🚀 Where should I start?
 
 | What are you dealing with? | Start here |
